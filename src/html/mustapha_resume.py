@@ -39,6 +39,7 @@ content.append(Spacer(1, 12))
 # Skills
 content.append(Paragraph("Technical Skills", styles['CustomHeading2']))
 skills = [
+    ["OS:", "Ubuntu/Debian, Fedora, CentOS/RHEL, Windows"],
     ["Cloud Platforms:", "AWS, Azure"],
     ["Containerization & Orchestration:", "Docker, Kubernetes (EKS, GKE)"],
     ["Automation:", "Terraform, Ansible, Helm, Chef"],
