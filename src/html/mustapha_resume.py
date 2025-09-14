@@ -100,6 +100,7 @@ for job, bullets in experience:
 content.append(Spacer(1, 12))
 content.append(Paragraph("Education & Certifications", styles['CustomHeading2']))
 content.append(Paragraph("BSc, University of Buea", styles['CustomNormal']))
+content.append(Paragraph("MBA, University of Antwerp", styles['CustomNormal']))
 content.append(Paragraph("AWS Solutions Architect Associate", styles['CustomNormal']))
 
 # Build PDF
